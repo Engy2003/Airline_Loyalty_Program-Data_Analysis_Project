@@ -62,7 +62,7 @@ The project includes a series of dynamic visualizations in Power BI to answer th
 
 ## Team Members
 
-- **Engy Saeed**
-- **Reem Ibrahim**
-- **Maya Taha**
-- **Tasneem Mostafa**
+- **Engy Saeed** - [LinkedIn](https://www.linkedin.com/in/engy-saeed-b47784276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXCxo8qKRQdOBWv%2FWg4q7Mg%3D%3D)
+- **Reem Ibrahim** - [LinkedIn](https://www.linkedin.com/in/reem-ibrahim-90b5b4234?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1icm%2FoMcR1%2Bq7UT42zhoyw%3D%3D)
+- **Maya Taha** - [LinkedIn](https://www.linkedin.com/in/maya-taha-90221127b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BMcLohVUXTNSz9cDZEO%2BpdA%3D%3D)
+- **Tasneem Mostafa** - [LinkedIn](https://www.linkedin.com/in/tasneem-mostafa-834a0018b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKI2CaShNQD6Zw4vqz9jaYw%3D%3D)

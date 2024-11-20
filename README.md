@@ -59,3 +59,10 @@ The following key questions were explored:
 ## Visualizations
 
 The project includes a series of dynamic visualizations in Power BI to answer the above questions. Visualizations are tailored to present insights clearly and effectively, with key metrics like total flights, points accumulated, and customer loyalty trends.
+
+## Team Members
+
+- **Engy Saeed**
+- **Reem Ibrahim**
+- **Maya Taha**
+- **Tasneem Mostafa**
